@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Test two NeedIt App Client Scripts: NeedIt Set Requested for and NeedIt Populate Email Field</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name> NeedIt Fail Test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 01:55:53</sys_created_on>
+        <sys_id>4510d09e972402109b48b390f053aff0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name> NeedIt Fail Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_4510d09e972402109b48b390f053aff0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 19:08:22</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="DELETE" query="document_key=4510d09e972402109b48b390f053aff0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>8a91ec19dbb2f55402d9172913961995</instance_id>
+        <instance_name>dev226551</instance_name>
+        <name>sys_atf_test_4510d09e972402109b48b390f053aff0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test"><sys_atf_test action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Test two NeedIt App Client Scripts: NeedIt Set Requested for and NeedIt Populate Email Field</description><enable_parameterized_testing>false</enable_parameterized_testing><fail_on_server_error>true</fail_on_server_error><name> NeedIt Fail Test</name><parameters/><remember/><sys_class_name>sys_atf_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 01:55:53</sys_created_on><sys_id>4510d09e972402109b48b390f053aff0</sys_id><sys_mod_count>3</sys_mod_count><sys_name> NeedIt Fail Test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_4510d09e972402109b48b390f053aff0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 19:08:22</sys_updated_on></sys_atf_test><sys_variable_value action="delete_multiple" query="document_key=4510d09e972402109b48b390f053aff0"/></record_update>]]></payload>
+        <payload_hash>-784167057</payload_hash>
+        <record_name> NeedIt Fail Test</record_name>
+        <reverted_from/>
+        <source>e6649aa8972802109b48b390f053af50</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 19:08:22</sys_created_on>
+        <sys_id>387cbbd2972402109b48b390f053afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18de6d1728d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 19:08:22</sys_updated_on>
+        <type>Test</type>
+        <update_guid>fc7cbbd28924021093a8327a6351c4b4</update_guid>
+        <update_guid_history>fc7cbbd28924021093a8327a6351c4b4:-784167057,3d3cb3d21c2402106eaa8507f40eabc5:-1904069369,715abb12e8240210c431c39b536c625a:-784167057,d420549ec72402100e1b71a666a7c309:1680980831</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 19:09:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test">sys_atf_test</sys_db_object>
+        <sys_id>231b7e8c548840d0a5ddffb8e6d41b31</sys_id>
+        <sys_metadata>4510d09e972402109b48b390f053aff0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> NeedIt Fail Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_4510d09e972402109b48b390f053aff0</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_4510d09e972402109b48b390f053aff0">387cbbd2972402109b48b390f053afb5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 19:09:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
